@@ -1,0 +1,27 @@
+h1{color:darkslategray;border:2px  solid #6600cc ;font-size:50px;font-family: fantasy;border-bottom-width: thick;border-bottom-style: dotted ;text-align: left;}
+h2{color:brown; font-size: 50;
+      font-family: fantasy;text-align: center;}
+body{background: #bb99ff;
+margin: 50px} 
+a{text-decoration:inheritactive; cursor:grab;}
+a.choice{font-size:30px;
+         color: #1a1aff;
+    font-family: cursive;}
+a.menu{font-size: 60px;
+margin: 20px}
+p{float: left;
+    font-size: 26px;line-height: 1.8;text-align: justify;
+    text-justify: inter-word; }
+p.attribution{font-size:10px;}
+p.title{line-height: 1.8;
+        color: black;
+        float: left;}
+img{border-radius: 20px;
+float: left;
+margin-right: 40px;}
+a.start{font-size: 30px; 
+        color: #003312;}
+p.text{color:crimson;
+        border:2px  solid #6600cc ;font-size:30px;font-family: fantasy;border-bottom-width: thick;border-bottom-style: dotted ;text-align: center;}
+p.top{font-size: 30;
+        color:  #ffd9b3;text-align: left;text-decoration: underline overline;}
